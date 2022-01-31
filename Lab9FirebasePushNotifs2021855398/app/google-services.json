@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886651518576",
+    "project_id": "lab9-firebasepushnotifs",
+    "storage_bucket": "lab9-firebasepushnotifs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886651518576:android:e13a883b042259c7afbeb5",
+        "android_client_info": {
+          "package_name": "com.example.lab9_firebasepushnotifs_2021855398"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886651518576-1nob5v74hqa0k7rh01vo6pd79fb878fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIqa9sWlNXA5xUVn4CCK4uGkWYstlavA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886651518576-1nob5v74hqa0k7rh01vo6pd79fb878fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
